@@ -3,10 +3,10 @@
 
 > Fetch historical price data from TradingView in any format you need.
 
-[![PyPI version](https://img.shields.io/badge/pypi-v0.1.0-blue)](https://pypi.org/project/tv-scraper/)
+[![PyPI version](https://img.shields.io/badge/pypi-v0.1.0-blue)](https://pypi.org/project/tv_scraper/)
 [![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/badge/dynamic/json?label=stars&query=%24.stargazers_count&url=https://api.github.com/repos/anuragjha0001/tv-scraper)](https://github.com/anuragjha0001/tv-scraper)
+[![GitHub stars](https://img.shields.io/badge/dynamic/json?label=stars&query=%24.stargazers_count&url=https://api.github.com/repos/anuragjha0001/tv_scraper)](https://github.com/anuragjha0001/tv_scraper)
 
 ## 📖 Overview
 
@@ -28,22 +28,22 @@
 
 ### Basic Install (DataFrame support)
 ```bash
-pip install tv-scraper[pandas]
+pip install tv_scraper[pandas]
 ```
 
 ### ML Install (NumPy arrays)
 ```bash
-pip install tv-scraper[numpy]
+pip install tv_scraper[numpy]
 ```
 
 ### Full Install (everything)
 ```bash
-pip install tv-scraper[all]
+pip install tv_scraper[all]
 ```
 
 ### From GitHub (latest)
 ```bash
-pip install git+https://github.com/anuragjha0001/tv-scraper.git
+pip install git+https://github.com/anuragjha0001/tv_scraper.git
 ```
 
 ---
@@ -348,7 +348,7 @@ TvScraperError (base)
 ## 🧪 Running Tests
 
 ```bash
-pip install tv-scraper[dev]
+pip install tv_scraper[dev]
 pytest tests/ -v
 pytest tests/ --cov=tv_scraper --cov-report=html
 ```
@@ -400,7 +400,7 @@ If you find this useful, please ⭐ star the repository!
 - **Author:** Anurag Jha
 - **Email:** anuragjha507@gmail.com
 - **GitHub:** [@anuragjha0001](https://github.com/anuragjha0001)
-- **Issues:** [Report Bug](https://github.com/anuragjha0001/tv-scraper/issues)
+- **Issues:** [Report Bug](https://github.com/anuragjha0001/tv_scraper/issues)
 
 ---
 

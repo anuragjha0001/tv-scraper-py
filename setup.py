@@ -2,12 +2,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="tv-scraper",
+    name="tv-view-scraper",
     version="0.1.0",
     author="Anurag Jha",
     author_email="anuragjha507@gmail.com",
     description="TradingView data scraper with multiple output formats",
-    url="https://github.com/anuragjha0001/tv-scraper",
+    url="https://github.com/anuragjha0001/tv_scraper",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=["websocket-client>=1.4.0"],

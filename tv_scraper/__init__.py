@@ -6,7 +6,7 @@ with support for multiple output formats.
 
 Author: Anurag Jha
 Email: anuragjha507@gmail.com
-GitHub: https://github.com/anuragjha0001/tv-scraper
+GitHub: https://github.com/anuragjha0001/tv_scraper
 
 Quick Start:
     from tv_scraper import TvDatafeed
@@ -17,7 +17,7 @@ Quick Start:
 __version__ = "0.1.0"
 __author__ = "Anurag Jha"
 __email__ = "anuragjha507@gmail.com"
-__github__ = "https://github.com/anuragjha0001/tv-scraper"
+__github__ = "https://github.com/anuragjha0001/tv_scraper"
 
 from .core import TvDatafeed
 
