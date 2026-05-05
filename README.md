@@ -1,4 +1,4 @@
-```markdown
+
 # 📺 TV Scraper
 
 > Fetch historical price data from TradingView in any format you need.
